@@ -1,4 +1,4 @@
-# PROJECTNAME
+# ANY.RUN
 
 ## Objective
 [Brief Objective - Remove this afterwards]

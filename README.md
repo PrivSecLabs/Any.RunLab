@@ -22,13 +22,7 @@ understanding of network security, attack behavior, and defensive techniques.
 
 - Any.Run for sandboxing environment and analysis.
 - Malware samples for detonation in virtual environment.
-- OSInT for hashes flagged as malicious by security vendors.
+- OSINT for hashes flagged as malicious by security vendors.
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
 
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-*Ref 1: Network Diagram*
